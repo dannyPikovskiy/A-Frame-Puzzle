@@ -1,0 +1,485 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2273,
+      "max": [
+        2.7668254375457764,
+        2.7575175762176514,
+        10.692244529724121
+      ],
+      "min": [
+        -2.764589309692383,
+        -2.7738969326019287,
+        -2.8133392333984375e-05
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 27276,
+      "componentType": 5126,
+      "count": 2273,
+      "max": [
+        0.9972440004348755,
+        0.9972440004348755,
+        1.0
+      ],
+      "min": [
+        -0.9972440004348755,
+        -0.9993833303451538,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2273,
+      "max": [
+        1.0,
+        0.9999211430549622,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9999008774757385,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2273,
+      "max": [
+        0.9916147589683533,
+        0.9935083985328674
+      ],
+      "min": [
+        0.0009606317616999149,
+        0.008243736810982227
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 18184,
+      "componentType": 5126,
+      "count": 2273,
+      "max": [
+        0.9916147589683533,
+        0.9935083985328674
+      ],
+      "min": [
+        0.0009606317616999149,
+        0.008243736810982227
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 10800,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 54552,
+      "componentType": 5126,
+      "count": 39520,
+      "max": [
+        2.8797695636749268,
+        2.8894200325012207,
+        10.759727478027344
+      ],
+      "min": [
+        -2.88478946685791,
+        -2.873453378677368,
+        -0.43958091735839844
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 528792,
+      "componentType": 5126,
+      "count": 39520,
+      "max": [
+        0.9999885559082031,
+        0.9999997615814209,
+        1.0
+      ],
+      "min": [
+        -0.9999946355819702,
+        -0.9999910593032837,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 36368,
+      "componentType": 5126,
+      "count": 39520,
+      "max": [
+        0.9999871850013733,
+        0.9999398589134216,
+        0.9999983310699463,
+        1.0
+      ],
+      "min": [
+        -0.9999871850013733,
+        -0.9999942779541016,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 36368,
+      "componentType": 5126,
+      "count": 39520,
+      "max": [
+        0.9968205094337463,
+        0.9936163425445557
+      ],
+      "min": [
+        0.0031795233953744173,
+        0.0022482548374682665
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 352528,
+      "componentType": 5126,
+      "count": 39520,
+      "max": [
+        0.9968205094337463,
+        0.9936163425445557
+      ],
+      "min": [
+        0.0031795233953744173,
+        0.0022482548374682665
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 668688,
+      "componentType": 5126,
+      "count": 39520,
+      "max": [
+        0.9968205094337463,
+        0.9936163425445557
+      ],
+      "min": [
+        0.0031795233953744173,
+        0.0022482548374682665
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 43200,
+      "componentType": 5125,
+      "count": 158508,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Janis Zeps (https://sketchfab.com/zeps9001)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/steampunk-hot-air-balloon-682141ef5e4f40e5b0608f835de49c63",
+      "title": "Steampunk Hot Air Balloon"
+    },
+    "generator": "Sketchfab-13.46.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 677232,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 984848,
+      "byteOffset": 677232,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1003032,
+      "byteOffset": 1662080,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 668688,
+      "byteOffset": 2665112,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3333800,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/baloon_baseColor.png"
+    },
+    {
+      "uri": "textures/baloon_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/baloon_normal.png"
+    },
+    {
+      "uri": "textures/details_baseColor.png"
+    },
+    {
+      "uri": "textures/details_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/details_emissive.png"
+    },
+    {
+      "uri": "textures/details_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "baloon",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 5
+      },
+      "name": "details",
+      "normalTexture": {
+        "index": 6
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "hot_air_baloon_baloon_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "hot_air_baloon_details_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10,
+            "TEXCOORD_2": 11
+          },
+          "indices": 12,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "15bd80e51e734678b3efbf7cdbc43e72.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        96.69805154077919,
+        1.08309186896971e-06,
+        -25.48503145410671,
+        0.0,
+        -25.48503145410672,
+        7.264338186541153e-06,
+        -96.69805154077893,
+        0.0,
+        8.039901383538606e-07,
+        99.99999999999973,
+        7.30049978248104e-06,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "hot_air_baloon"
+    },
+    {
+      "mesh": 0,
+      "name": "hot_air_baloon_baloon_0"
+    },
+    {
+      "mesh": 1,
+      "name": "hot_air_baloon_details_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    }
+  ]
+}
